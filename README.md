@@ -4,11 +4,11 @@
 * Email (@ccc): 
 * Matrícula: 
 
-# Roteiro: Ordenação linear
+# Roteiro: Implementação de Pilha baseada em Array
 
 ## Material Teórico 
 
-[Counting Sort](https://joaoarthurbm.github.io/eda/posts/ordenacao-linear/)
+[Pilha baseada em Array](https://joaoarthurbm.github.io/eda/posts/lifoarray/)
 
 ## O template
 
@@ -30,42 +30,26 @@
 
 ## Introdução
 
-Este roteiro envolve implementação e teoria dos principais algoritmos de ordenação linear.
+Este roteiro envolve a implementação das principais operações de pilha.
 
 ## A tarefa. 
 
 ### Implementação e testes
 
 
-**CountingSort.** Implemente os métodos da classe CountingSort. A explicação do que fazer está como comentário no código. Seu objetivo é passar nos testes que disponibilizei.
+**Pilha.** Implemente os métodos da classe Pilha. A explicação do que fazer está como comentário no código. Seu objetivo é passar nos testes que disponibilizei.
 
 Ah...confira (sempre!) se você passa nos testes: `gradle test`.
 
 Óbvio que você pode simplesmente copiar código da Internet e colar lá. Eu mesmo disponibilizo código. Mas, conselho, assim você não aprende :)
-
-### Teoria
-
-Perguntas importantes:
-  
-  * Apresente um exemplo concreto em que o Counting Sort é muito adequado.
-
-  > INSIRA AQUI SUA RESPOSTA
-  
-  * Apresente um exemplo concreto em que o Counting Sort não é uma boa alternativa para ordenação.
-
-  > INSIRA SUA RESPOSTA AQUI
-
-  * Qual problema do Counting Sort o Radix Sort resolve? Como? 
-
-  > INSIRA AQUI SUA RESPOSTA
-
     
 ## Mais estudo
 
 Implemente as seguintes questões no tst-eda:
 
-* Radix Dois Dígitos
-* Radix Três Dígitos
+* inverte_pilha_index
+* max_pilha_index
+* parênteses
  
 ## Entregando o lab
 

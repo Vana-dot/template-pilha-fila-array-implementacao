@@ -39,8 +39,9 @@ public class Pilha {
         return "";
     }
     
-    // Deve retornar a posição da primeira ocorrência do elemento passado como parâmetro. Interprete
-    // os testes para a especificação mais detalhada.
+    // Deve retornar a posição da primeira ocorrência do elemento passado como parâmetro. Note que
+    // o topo sempre está na primeira posição (0), abaixo do topo é a posição 1 etc. Não confunda
+    // com os índices do array. Interprete os testes para a especificação mais detalhada.
     // Não é permitido iterar diretamente sobre o array. Use as operações push, pop,
     // isEmpty etc.
     public int indexOf(int valor) {

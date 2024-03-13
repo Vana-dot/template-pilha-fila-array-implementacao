@@ -4,11 +4,12 @@
 * Email (@ccc): 
 * Matrícula: 
 
-# Roteiro: Implementação de Pilha baseada em Array
+# Roteiro: Implementação de Pilha e Fila baseadas em Array
 
 ## Material Teórico 
 
 [Pilha baseada em Array](https://joaoarthurbm.github.io/eda/posts/lifoarray/)
+[Fila baseada em Array](https://joaoarthurbm.github.io/eda/posts/fifoarray/)
 
 ## O template
 
@@ -37,7 +38,7 @@ Este roteiro envolve a implementação das principais operações de pilha.
 ### Implementação e testes
 
 
-**Pilha.** Implemente os métodos da classe Pilha. A explicação do que fazer está como comentário no código. Seu objetivo é passar nos testes que disponibilizei.
+**Pilha e Fila.** Implemente os métodos da classe Pilha e Fila. A explicação do que fazer está como comentário no código. Seu objetivo é passar nos testes que disponibilizei.
 
 Ah...confira (sempre!) se você passa nos testes: `gradle test`.
 

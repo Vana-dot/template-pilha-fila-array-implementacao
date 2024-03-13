@@ -9,6 +9,7 @@
 ## Material Teórico 
 
 [Pilha baseada em Array](https://joaoarthurbm.github.io/eda/posts/lifoarray/)
+
 [Fila baseada em Array](https://joaoarthurbm.github.io/eda/posts/fifoarray/)
 
 ## O template

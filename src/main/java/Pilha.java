@@ -33,7 +33,7 @@ public class Pilha {
 
 
     // deve retornar uma string representando a pilha. Veja os testes para a especificação
-    // detalhada. Não é permitido iterar diretamente sobre o array. Use as operações push, pop,
+    // detalhada. Não é permitido iterar diretamente sobre o array ou criar arrays. Crie outra pilha, se preciso. Use as operações push, pop,
     // isEmpty etc. 
     public String toString() {
         return "";

@@ -41,6 +41,11 @@ Este roteiro envolve a implementação das principais operações de pilha.
 
 **Pilha e Fila.** Implemente os métodos da classe Pilha e Fila. A explicação do que fazer está como comentário no código. Seu objetivo é passar nos testes que disponibilizei.
 
+### Restrições
+
+    - Usar outra pilha auxiliar quando precisar. Não pode criar array ou iterar sobre o array.
+    - A fila circular é de tamanho fixo e não deve sobrescrever ninguém. Quando chegar no limite da ocupação, lança exceção, como está descrito no método.
+
 Ah...confira (sempre!) se você passa nos testes: `gradle test`.
 
 Óbvio que você pode simplesmente copiar código da Internet e colar lá. Eu mesmo disponibilizo código. Mas, conselho, assim você não aprende :)

@@ -155,7 +155,7 @@ public class FilaTests {
         assertEquals(2, fila.lastIndexOf(30));
         fila.removeFirst();
         fila.addLast(50);
-        assertEquals(4, fila.lastIndexOf(30));
+        assertEquals(1, fila.lastIndexOf(30));
 
         assertEquals(3, fila.indexOf(50));
     }

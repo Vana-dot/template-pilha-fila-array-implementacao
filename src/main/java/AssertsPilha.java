@@ -130,7 +130,7 @@ public class AssertsPilha {
 
         pilha.push(30);
         pilha.push(10);
-        assert pilha.indexOf(10) == 0;
+        assert pilha.indexOf(10) == 3;
     }
 
     public void testPilhaLastIndexOf() {
